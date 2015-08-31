@@ -12,7 +12,7 @@ using Microsoft.Xna.Framework.Media;
 namespace Tesis_01
 {
     /// <summary>
-    /// This is the main type for your game
+    /// jajajajjajajaj
     /// </summary>
     public class Game1 : Microsoft.Xna.Framework.Game
     {
